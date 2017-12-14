@@ -1,23 +1,14 @@
 ---
-title: Life cycle of friendships
-date: 2016-08-02
-description: How do friendships develop?
+title: Understanding Cassava from the Experts
+date: 2017-12-14
+description: Understanding cassava
 categories:
-  - friendship
+  - Data collection
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: anna
+author_staff_member: Benjamin
 ---
-Three significant factors make the formation of a friendship possible:
+To build computation algorithms to detect and classify cassava diseases, we needed to first understand cassava diseases and their prevalence in Uganda. To do this, we went to the National Crops Resources Research Instritute (NaCCRI) located in Namulonge, about 24.3 kilometers from Makerere University, Kampala.
 
-* Proximity – nearness or having a place or places to interact
-* Repeated, unplanned interactions
-* A setting that encourages people to confide in each other
+We interacted with several experts from NaCCRI, who explained to us why cassava is an important crop, and why more attention needs to be given to it. “Cassava is a security food crop and is one of the crops that can survive prolonged seasons of draught” said Dr. Chris Omongo, one of the experts we interviewed.
 
-![Coins](https://source.unsplash.com/random/1500x1000)
-
-## Dissolution
-Friendships end for many different reasons. Sometimes friends move away from each other and the relationship wanes due to the distance. Digital technology has however made geographic distance less of an obstacle to maintaining a friendship. Sometimes divorce causes an end to friendships, as people drop one or both of the divorcing people. For young people, friendships may end as a result of acceptance into new social groups.
-
-![American River](https://source.unsplash.com/random/1500x1001)
-
-Friendships may end by fading quietly away or may end suddenly. How and whether to talk about the end of a friendship is a matter of etiquette that depends on the circumstances.
+During this interview, we also learnt the different diseases that are affecting the cassava crops, the commonest ones included, cassava Mosaic Disease (CMD) and the Cassava Brown Streak Disease (CBSD) spread by the white-fly vector – A small fly that lays it’s eggs beneath the cassava leaves, giving room for the growth of the disease causing viruses, which are spread when the flies feed on the cassava leaves. Other diseases that affect the cassava disease are Cassava Green Mite (CGM) and Cassava Bacterial Blight (CBB)
