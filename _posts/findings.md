@@ -1,5 +1,5 @@
 ---
-title: Understanding cassava from local farmers
+title: Initial Survey findings
 date: 2017-12-14
 description: Initial Survey findings
 categories:
