@@ -22,10 +22,13 @@ The Agricultural experts identified the common diseases that affect the cassava 
 | Cassava Bacterial Blight  | Bacteria, pathogens in the air, enter injured eg afer a storm|Wilting of the leaf right from the apex |No much research has been done on this disease|
 
 
+
 ## Professional Profile Summary
+![alt text](https://mwogonet.github.io/images/participants.png "Logo Title Text 1")
+
 Respondents were asked about their different professions. It is important for us to know the segments of potential users and how they might use our research. The breakdown consisted of 65% farmers and 35% agricultural experts.
 
 ## Types of cassava Grown
 The respondents chose the crops they specialized in from a list of crops that we provided them with. The results were as follows; Cassava (94.4%), Potatoes (44.4%), Legumes (44.4%), Maize (5.6%), Cabbages (5.6%), Yams (5.6%), Bananas (5.6%).
 
-![alt text](https://www.dropbox.com/s/qnsddv45n7up9e7/types_of_crops.png "Logo Title Text 1")
+![alt text](https://mwogonet.github.io/images/types_of_crops.png "Logo Title Text 1")
