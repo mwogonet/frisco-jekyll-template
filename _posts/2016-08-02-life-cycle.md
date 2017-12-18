@@ -4,7 +4,7 @@ date: 2017-12-14
 description: Understanding cassava
 categories:
   - Data collection
-image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
+image: https://mwogonet.github.io/images/6fc58bf6-051e-4ac6-97c2-3c1b7e4f4a0c.jpeg
 author_staff_member: Benjamin
 ---
 To build computation algorithms to detect and classify cassava diseases, we needed to first understand cassava diseases and their prevalence in Uganda. To do this, we went to the National Crops Resources Research Instritute (NaCCRI) located in Namulonge, about 24.3 kilometers from Makerere University, Kampala.
