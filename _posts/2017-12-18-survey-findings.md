@@ -32,3 +32,19 @@ Respondents were asked about their different professions. It is important for us
 The respondents chose the crops they specialized in from a list of crops that we provided them with. The results were as follows; Cassava (94.4%), Potatoes (44.4%), Legumes (44.4%), Maize (5.6%), Cabbages (5.6%), Yams (5.6%), Bananas (5.6%).
 
 ![alt text](https://mwogonet.github.io/images/types_of_crops.png "Logo Title Text 1")
+
+## Would they pay for an automated diagnosis tool?
+Of the people we interviewed, 83.3% were positive towards the automatic based technique solution and would be willing to pay for it unlike 16.7% who would not pay for the tool because they prefer using naked eyes.
+![alt text](https://mwogonet.github.io/images/would_they_pay.png "Logo Title Text 1")
+
+## Devices preferred for leaf Diagnosis
+88.9% of the respondents would be comfortable using mobile phones to perform leaf disease diagnosis, 27.8% would find it convenient to use tablets. The responses are shown in the figure below;
+
+![alt text](https://mwogonet.github.io/images/devices_preferred.png "Logo Title Text 1")
+
+## Conclusion
+
+Our initial research survey discovered that farmers and researchers alike are positive towards the use of an automated approach for diagnosis of cassava diseases. it also taught us that local farmers in Uganda have limited knowledge concerning the different diseases affecting their cassava crops and possible control measures.
+It's from this survey that we shall start building the foundations of MwogoNet.
+
+
