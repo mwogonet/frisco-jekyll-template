@@ -1,7 +1,7 @@
 ---
-name: Tom Wilson
-position: CTO
-image_path: https://source.unsplash.com/collection/139386/605x605?a=.png
+name: Agaba Joab
+position: Academic Supervisor
+image_path: https://raw.githubusercontent.com/mwogonet/mwogonet.github.io/master/_staff_members/joab.jpg
 twitter_username: CloudCannonApp
-blurb: Tom likes to travel and has visited over 50 countries.
+blurb: Lecturer at Makerere University, College of computing
 ---
