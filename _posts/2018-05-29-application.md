@@ -33,4 +33,4 @@ The Report page includes details about the various cassava diseases such as Cass
 The <b>Report</b> page can be illustrated below;
 
 
-![alt text](https://mwogonet.github.io/images/healthy.png "Diagnosed image")
+![alt text](https://mwogonet.github.io/images/report.png "MwogoNet report")
