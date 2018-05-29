@@ -27,3 +27,10 @@ On clicking the camera icon, the user will be prompted to take a picture of the 
 
 
 ![alt text](https://mwogonet.github.io/images/healthy.png "Diagnosed image")
+
+An alternative to capturing an image using a camera is loading an image from the gallery.This can be done by clicking the gallery icon on the home page.<br/>
+The Report page includes details about the various cassava diseases such as Cassava Mosaic Disease, Cassava Brown Streak Disease, Cassava Green Mite and Cassava Bacterial Blight. The details in the report include the causes, symptoms and ways of prevent the disease. <br/>
+The <b>Report</b> page can be illustrated below;
+
+
+![alt text](https://mwogonet.github.io/images/healthy.png "Diagnosed image")
