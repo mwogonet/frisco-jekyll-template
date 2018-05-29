@@ -13,7 +13,7 @@ The Interfaces for the application are explained below;
 
 ## Home Screen
 
-![alt text](https://mwogonet.github.io/images/homelogo.png)
+![alt text|50x50](https://mwogonet.github.io/images/homelogo.png)
 When the user clicks the "MwogoNet icon" on the home screen, the MwogoNet home page will then be displayed as illustrated below;<br/>
 
 
