@@ -13,4 +13,5 @@ The Interfaces for the application are explained below;
 
 ## Home Screen
 
-b;llalalalalalall
+![alt text](https://mwogonet.github.io/images/homelogo.png "Home Screen")
+
