@@ -4,7 +4,7 @@ date: 2018-05-29
 description: Details about different experiments carried out
 categories:
   - Training process
-image: https://github.com/mwogonet/mwogonet.github.io/blob/master/images/triaining.png
+image: https://www.dropbox.com/s/ef0e4h8qjc2tomd/env_effect.png
 author_staff_member:Cynthia, Gloria
 ---
 
