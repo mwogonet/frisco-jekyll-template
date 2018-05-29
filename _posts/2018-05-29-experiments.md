@@ -1,12 +1,13 @@
 ---
-title: Initial Survey findings
-date: 2017-12-18
-description: Results from multiple surveys on diagnisis automation
+title: Experiments carried out
+date: 2018-05-29
+description: Details about different experiments carried out
 categories:
   - Data Analysis
 image: https://www.dropbox.com/s/ef0e4h8qjc2tomd/env_effect.png
 author_staff_member: Benjamin
 ---
+
 We trained a machine learning algorithm on various classes such as Cassava Mosaic Disease(CMD), Cassava Bacterial Blight(CBB), Cassava Brown Streak Disease(CBSD), Cassava Green Mite(CGM) and Healthy images. The steps performed during this process include the following;
 
 <b>Step one</b>: We defined the structure of our files. These image files were stored in the cropped and uncropped folders. Within these folders, we had a folder for each disease and healthy images. Within the different disease folders, we had the severities for each disease.<br/>
