@@ -45,7 +45,4 @@ For the different diseases, we started with a more general comparison i.e; <br/>
 
 4. CBSD vs CMD vs Healthy<br/>
 
-<b>Conclusion</b><br/>
-In the final training process, we trained CBBvsCBSDvsCMDvsCGMvsHealthy for both the cropped and uncropped images. We achieved a validation accuracy of 75%.
 
-This model was then converted to a .pb(protocol buffer) file.
