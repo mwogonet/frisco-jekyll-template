@@ -3,8 +3,8 @@ title: Experiments carried out
 date: 2018-05-29
 description: Details about different experiments carried out
 categories:
-  - Data Analysis
-image: https://www.dropbox.com/s/ef0e4h8qjc2tomd/env_effect.png
+  - Training process
+image: https://mwogonet.github.io/images/triaining.png
 author_staff_member:Cynthia, Gloria
 ---
 
