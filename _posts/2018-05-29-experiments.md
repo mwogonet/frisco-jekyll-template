@@ -4,7 +4,7 @@ date: 2018-05-29
 description: Details about different experiments carried out
 categories:
   - Training process
-image: https://mwogonet.github.io/images/triaining.png
+image: https://github.com/mwogonet/mwogonet.github.io/blob/master/images/triaining.png
 author_staff_member:Cynthia, Gloria
 ---
 
