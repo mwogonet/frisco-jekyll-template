@@ -21,11 +21,10 @@ The Interfaces for the application are explained below;
 <img src="https://mwogonet.github.io/images/gallery.png" width="400" height="500"/>
 
 <p><b>Diagnosed Image</b></p>
-<p>On clicking the camera icon, the user will be prompted to take a picture of the cassava leaf. The diagnosis results will then be displayed on the screen as shown below</p><br/>
+<p>On clicking the camera icon, the user will be prompted to take a picture of the cassava leaf.An alternative to capturing an image using a camera is loading an image from the gallery.This can be done by clicking the gallery icon on the home page.<br/> The diagnosis results will then be displayed on the screen as shown below</p><br/>
 <img src="https://mwogonet.github.io/images/healthy.png" width="400" height="500"/>
 
 <p><b>Report Page</b></p>
-An alternative to capturing an image using a camera is loading an image from the gallery.This can be done by clicking the gallery icon on the home page.<br/>
 The Report page includes details about the various cassava diseases such as Cassava Mosaic Disease, Cassava Brown Streak Disease, Cassava Green Mite and Cassava Bacterial Blight. The details in the report include the causes, symptoms and ways of prevent the disease. The <b>Report</b> page can be illustrated below;
 
 <img src="https://mwogonet.github.io/images/report.png" width="400" height="500"/>
