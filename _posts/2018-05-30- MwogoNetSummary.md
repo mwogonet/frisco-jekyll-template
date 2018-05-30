@@ -1,5 +1,6 @@
 
 ---
+
 title: MwogoNet Summary
 date: 2018-05-30
 description: Overview of entire process from data collection to Application development.
@@ -7,6 +8,7 @@ categories:
   - General overview
 image: https://www.dropbox.com/s/ef0e4h8qjc2tomd/env_effect.png
 author_staff_member: Gloria
+
 ---
 
 As team, we went out there to the field to collect data on how cassava farmers and agricultural experts do cassava disease diagnosis. We figured that most,if not all farmers use their naked eyes to come to a conclusion on which disease the cassava crop is being affected with while the agricultural experts do take leaf or tuber samples  to the laboratory so as to carry out disease diagnosis.<br/>
