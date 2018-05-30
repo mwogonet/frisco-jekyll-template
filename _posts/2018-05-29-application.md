@@ -1,7 +1,6 @@
 ---
 title: MwogoNet application
 date: 2018-05-29
-description: Details about the mobile application
 categories:
   - Android application
 image: https://mwogonet.github.io/images/blight.jpg
