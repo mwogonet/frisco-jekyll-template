@@ -39,7 +39,6 @@ We used the ENet algorithm which performed semantic segmentation on the cassava 
 <p><b>Cropped image </b></p>
 <img src="https://mwogonet.github.io/images/cropped.jpg" width="400" height="500"/>
 
-We trained on 1474 healthy images and 3018 images infected with cassava mosaic disease.
 
 <b>Details:</b><br/>
 For the different diseases, we started with a more general comparison i.e; <br/>
