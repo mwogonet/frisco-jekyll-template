@@ -33,7 +33,7 @@ We trained a machine learning algorithm on various classes such as Cassava Mosai
 
 During the training process, we made a comparison between both the cropped images and uncropped images to find out which produced a better validation accuracy.<br/>
 
-We used the ENet algorithm which performed semantic segmentation on the cassava image as illustrated below so as to remove the background noise and improve on the accuracy.<br/>
+The images were passed through the ENet algorithm which performed semantic segmentation on the cassava images as illustrated below so as to remove the background noise and improve on the accuracy.<br/>
 
 <p><b>Uncropped image </b></p>
 <img src="https://mwogonet.github.io/images/uncropped.jpg" width="400" height="500"/>
