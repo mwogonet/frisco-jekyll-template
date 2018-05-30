@@ -13,13 +13,13 @@ The Interfaces for the application are explained below;
 
 <p><b>Home Screen</b></p>
 <img src="https://mwogonet.github.io/images/gallery.png" width="300" height="300" align = "right"/>
-<p>When the user clicks the "MwogoNet icon" on the home screen, <br/>the MwogoNet home page will then be displayed as illustrated below xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+<p>When the user clicks the "MwogoNet icon" on the home screen, <br/>the MwogoNet home page will then be displayed as illustrated below </p>
 
 
-## Home Page
 
-On the home page, different icons are displayed which include; the <b>Camera</b> icon, <b>gallery</b> icon, <b>manual</b> icon and <b>report</b> icon.<br/> <img src="https://mwogonet.github.io/images/gallery.png" width="300" height="300" align = "right"/>
-
+<p><b>Home Page</b></p>
+<img src="https://mwogonet.github.io/images/gallery.png" width="300" height="300" align = "right"/>
+<p>On the home page, different icons are displayed which include; the <b>Camera</b> icon, <b>gallery</b> icon, <b>manual</b> icon and <b>report</b> icon.<br/></p> 
 
 On clicking the camera icon, the user will be prompted to take a picture of the cassava leaf. The diagnosis results will then be displayed on the screen as shown below<br/>
 
