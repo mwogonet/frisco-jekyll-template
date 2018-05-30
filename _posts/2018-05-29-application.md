@@ -13,7 +13,7 @@ The Interfaces for the application are explained below;
 
 <p><h1><b>Home Screen</b></h1></p>
 <p>When the user clicks the "MwogoNet icon" on the home screen, <br/>the MwogoNet home page will then be displayed as illustrated below</p> 
-<img src="https://mwogonet.github.io/images/homelogo.png" width="400" height="500"/>
+<img src="https://mwogonet.github.io/images/homelogo.png" width="400" height="500" align ="middle"/>
 
 
 <p><b>Home Page</b></p>
@@ -28,6 +28,6 @@ The Interfaces for the application are explained below;
 An alternative to capturing an image using a camera is loading an image from the gallery.This can be done by clicking the gallery icon on the home page.<br/>
 The Report page includes details about the various cassava diseases such as Cassava Mosaic Disease, Cassava Brown Streak Disease, Cassava Green Mite and Cassava Bacterial Blight. The details in the report include the causes, symptoms and ways of prevent the disease. <br/>
 The <b>Report</b> page can be illustrated below;
+<img src="https://mwogonet.github.io/images/report.png" width="400" height="500"/>
 
 
-![alt text](https://mwogonet.github.io/images/report.png "MwogoNet report")
