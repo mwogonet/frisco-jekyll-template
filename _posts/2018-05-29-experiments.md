@@ -32,7 +32,13 @@ We trained a machine learning algorithm on various classes such as Cassava Mosai
 
 7. callbacks:used to get internal view on internal states and statistics of model during training.These are mainly because of an early stop or a checkpoint. The early stop is done when a monitored quantity has stopped improving.The checkpoint is done to moitor progress.<br/>
 
-During the training process, we made a comparison between both the cropped images and uncropped images to find out which produced a better validation accuracy.
+During the training process, we made a comparison between both the cropped images and uncropped images to find out which produced a better validation accuracy.<br/>
+We used the ENet algorithm which performed semantic segmentation on the cassava image as illustrated below so as to remove the background noise and improve on the accuracy.<br/>
+<p><b>Uncropped image </b></p>
+<img src="https://mwogonet.github.io/images/uncropped.jpg" width="400" height="500"/>
+<p><b>Cropped image </b></p>
+<img src="https://mwogonet.github.io/images/cropped.jpg" width="400" height="500"/>
+
 We trained on 1474 healthy images and 3018 images infected with cassava mosaic disease.
 
 <b>Details:</b><br/>
