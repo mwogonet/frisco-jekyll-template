@@ -1,7 +1,6 @@
 ---
 title: Experiments carried out
 date: 2018-05-29
-description: Details about experiments
 categories:
   - Training process
 image: https://mwogonet.github.io/images/accuracy.JPG
