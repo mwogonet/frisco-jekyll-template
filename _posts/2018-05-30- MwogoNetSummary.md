@@ -32,6 +32,5 @@ Let X be the Performance(Categorical_accuracy).
 
 The above weights are then saved as an Hierachical Data Format (HDF) of which we saved ours using version 5 i.e. HDF5 file. We used the Hierachical Data Format because it is a set of file format that is designed to store and organize large amounts of data i.e.thousands of datasets can be stored in a single file.<br/>
 In the HDF5 file,Metadata is stored in the form of user-defined, named attributes attached to groups and datasets.The groups are container structures which hold datasets while the datasets are multidimensional arrays of a homogeneous type.It is saved in the form "Final_weights_0.89.hdf5".<br/>
-
 After getting the weights in the form of HDF5, we were required to deploy it on android and this could only be done by converting the h5 graph to a protocol Buffer(PB) file because running the model on android Tensorflow can be done using the ".pb" extension only.The graph is then frozen as a .pb and can be able run on android.<br/>
 Kotlin programming language was then in android studio used to come up with the android interface and functionality. A simple report and manual are provided on the application to help farmers and agricultural experts use the MwogoNet application easily.
