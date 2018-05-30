@@ -4,7 +4,7 @@ date: 2018-05-29
 description: Details about experiments
 categories:
   - Training process
-image: https://www.dropbox.com/s/ef0e4h8qjc2tomd/env_effect.png
+image: https://mwogonet.github.io/images/graph2.jpg
 author_staff_member: Cynthia,Gloria
 ---
 
