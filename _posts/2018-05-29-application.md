@@ -4,7 +4,7 @@ date: 2018-05-29
 description: Details about the mobile application
 categories:
   - Android application
-image: https://www.dropbox.com/s/ef0e4h8qjc2tomd/env_effect.png
+image: https://mwogonet.github.io/images/local_farmer2.jpeg
 author_staff_member: Cynthia
 ---
 After the training process, a Keras inference graph was generated indicating the predictions made by the model. This graph was then saved and frozen as a <b>".pb"</b> graph thereby changing the graph to a <b>Tensorflow graph</b> which can be interpreted by Android Studio.<br/> 
