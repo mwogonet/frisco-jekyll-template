@@ -5,7 +5,7 @@ description: Details about experiments
 categories:
   - Training process
 image: https://www.dropbox.com/s/ef0e4h8qjc2tomd/env_effect.png
-author_staff_member: Cynthia Gloria
+author_staff_member: Cynthia,Gloria
 ---
 
 We trained a machine learning algorithm on various classes such as Cassava Mosaic Disease(CMD), Cassava Bacterial Blight(CBB), Cassava Brown Streak Disease(CBSD), Cassava Green Mite(CGM) and Healthy images. The steps performed during this process include the following;
