@@ -4,7 +4,7 @@ date: 2018-05-30
 description: Overview of entire process from data collection to application development.
 categories:
   - General overview
-image: https://www.dropbox.com/s/ef0e4h8qjc2tomd/env_effect.png
+image: https://mwogonet.github.io/images/2.jpg
 author_staff_member: Gloria
 ---
 
