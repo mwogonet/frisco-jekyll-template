@@ -23,8 +23,11 @@ We trained on both the cropped and uncropped images for the diseased(Cassava Mos
 Let X be the Performance(Categorical_accuracy).
 
 1.X>60% - Bad
+
 2.61%<=X>=75% - Fairly Good
+
 3.76%<=X>=85% -Good
+
 4.86%<=X>=100% - Very Good
 
 The above weights are then saved as an Hierachical Data Format (HDF) of which we saved ours using version 5 i.e. HDF5 file. We used the Hierachical Data Format because it is a set of file format that is designed to store and organize large amounts of data i.e.thousands of datasets can be stored in a single file.<br/>
