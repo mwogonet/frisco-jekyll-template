@@ -4,7 +4,7 @@ date: 2018-05-29
 description: Details about the mobile application
 categories:
   - Android application
-image: https://mwogonet.github.io/images/gallery.png
+image: https://mwogonet.github.io/images/blight.jpg
 author_staff_member: Cynthia
 ---
 After the training process, a Keras inference graph was generated indicating the predictions made by the model. This graph was then saved and frozen as a <b>".pb"</b> graph thereby changing the graph to a <b>Tensorflow graph</b> which can be interpreted by Android Studio.<br/> 
