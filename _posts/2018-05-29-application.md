@@ -10,18 +10,17 @@ author_staff_member: Cynthia
 After the training process, a Keras inference graph was generated indicating the predictions made by the model. This graph was then saved and frozen as a <b>".pb"</b> graph thereby changing the graph to a <b>Tensorflow graph</b> which can be interpreted by Android Studio.<br/> 
 The MwogoNet application currently runs on an Android operating system and has been tested on Android version 7.<br/>
 The Interfaces for the application are explained below;
-<div>
-<p><b>Home Screen</b></p>
-<img src="https://mwogonet.github.io/images/gallery.png" width="300" height="300" align = "right"/>
-<p>When the user clicks the "MwogoNet icon" on the home screen, <br/>the MwogoNet home page will then be displayed as illustrated below </p>
-</div>
-<br/>
 
-<div>
+<p><b>Home Screen</b></p>
+<p>When the user clicks the "MwogoNet icon" on the home screen, <br/>the MwogoNet home page will then be displayed as illustrated below 
+<img src="https://mwogonet.github.io/images/gallery.png" width="500" height="600"/>
+
+
+
 <p><b>Home Page</b></p>
-<img src="https://mwogonet.github.io/images/gallery.png" width="300" height="300" align = "right"/>
 <p>On the home page, different icons are displayed which include; the <b>Camera</b> icon, <b>gallery</b> icon, <b>manual</b> icon and <b>report</b> icon.<br/></p> 
-</div>
+<img src="https://mwogonet.github.io/images/gallery.png" width="500" height="600" />
+
 
 On clicking the camera icon, the user will be prompted to take a picture of the cassava leaf. The diagnosis results will then be displayed on the screen as shown below<br/>
 
