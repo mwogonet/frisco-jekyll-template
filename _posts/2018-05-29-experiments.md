@@ -4,7 +4,7 @@ date: 2018-05-29
 description: Details about experiments
 categories:
   - Training process
-image: https://mwogonet.github.io/images/graph2.jpg
+image: https://mwogonet.github.io/images/one.png
 author_staff_member: Cynthia,Gloria
 ---
 
