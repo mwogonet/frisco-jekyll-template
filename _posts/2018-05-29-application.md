@@ -15,6 +15,7 @@ The Interfaces for the application are explained below;
 <img src="https://mwogonet.github.io/images/gallery.png" width="300" height="300" align = "right"/>
 <p>When the user clicks the "MwogoNet icon" on the home screen, <br/>the MwogoNet home page will then be displayed as illustrated below </p>
 </div>
+<br/>
 
 <div>
 <p><b>Home Page</b></p>
