@@ -12,7 +12,7 @@ The MwogoNet application currently runs on an Android operating system and has b
 The Interfaces for the application are explained below;
 
 ## Home Screen
-<img src="https://mwogonet.github.io/images/gallery.png" width="20" height="20" />
+<img src="https://mwogonet.github.io/images/gallery.png" width="100" height="100" />
 
 
 
