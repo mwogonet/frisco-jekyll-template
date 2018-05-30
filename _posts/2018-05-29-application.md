@@ -12,7 +12,7 @@ The MwogoNet application currently runs on an Android operating system and has b
 The Interfaces for the application are explained below;
 
 ## Home Screen
-![This is the home page](https://mwogonet.github.io/images/gallery.png =20x20)
+![This is the home page](https://mwogonet.github.io/images/gallery.png =25x)
 
 When the user clicks the "MwogoNet icon" on the home screen, the MwogoNet home page will then be displayed as illustrated below;<br/>
 
