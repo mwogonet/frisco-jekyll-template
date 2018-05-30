@@ -22,7 +22,7 @@ We used the pre-trained VGG16 Convolutional Neural Network(This model is trained
 We trained on both the cropped and uncropped images for the diseased(Cassava Mosaic Disease, Cassava Bacterial Blight, Cassava Brown Streak Disease and Cassava Green mite Disease) as a whole versus healthy images to train the model on which leaves are diseased and which are not. We also trained it on a single disease versus the healthy and for each classification, we got different weights which reflect how well the model has learnt i.e.<br/>
 Let X be the Performance(Categorical_accuracy).
 
-1. X>60% - Bad
+1. X<60% - Bad
 
 2. 61%<=X>=75% - Fairly Good
 
