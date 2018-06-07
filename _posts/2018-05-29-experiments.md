@@ -35,11 +35,11 @@ During the training process, we made a comparison between both the cropped image
 
 The images were passed through the ENet algorithm which performed semantic segmentation on the cassava images as illustrated below so as to remove the background noise and improve on the accuracy.<br/>
 
-<p><b>Uncropped image </b></p>
-<img src="https://mwogonet.github.io/images/uncropped.jpg" width="400" height="500"/>
+<p><b>Good segmentation </b></p>
+<img src="https://mwogonet.github.io/images/good.jpg" width="400" height="500"/>
 
-<p><b>Cropped image </b></p>
-<img src="https://mwogonet.github.io/images/cropped.jpg" width="400" height="500"/>
+<p><b>Poor segmenatation </b></p>
+<img src="https://mwogonet.github.io/images/poor.jpg" width="400" height="500"/>
 
 
 
