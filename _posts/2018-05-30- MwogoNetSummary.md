@@ -8,7 +8,7 @@ image: https://mwogonet.github.io/images/2.jpg
 author_staff_member: Gloria
 ---
 
-As team, we went out there to the field to collect data on how cassava farmers and agricultural experts do cassava disease diagnosis. We figured that most,if not all farmers use their naked eyes to come to a conclusion on which disease the cassava crop is being affected with while the agricultural experts do take leaf or tuber samples  to the laboratory so as to carry out disease diagnosis.<br/>
+As team, we to the field to collect data on how cassava farmers and agricultural experts do cassava disease diagnosis. We figured that most,if not all farmers use their naked eyes to come to a conclusion on which disease the cassava crop is being affected with while the agricultural experts do take leaf or tuber samples  to the laboratory so as to carry out disease diagnosis.<br/>
 
 We then decided to come up with an alternative i.e. the Mwogonet android mobile application that will be able to localize and classify common diseases in cassava crops such Cassava Mosaic Disease, Cassava Brown Streak Virus and Cassava Bacterial Blight based on the visual signs portrayed on the cassava leaves.<br/>
 
