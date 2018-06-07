@@ -4,7 +4,7 @@ date: 2018-05-30
 description: Overview of entire process from data collection to application development.
 categories:
   - General overview
-image: https://mwogonet.github.io/images/val.jpg
+image: https://mwogonet.github.io/images/2.jpg
 author_staff_member: Gloria
 ---
 
