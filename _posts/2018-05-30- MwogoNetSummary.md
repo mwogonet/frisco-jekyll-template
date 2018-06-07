@@ -11,6 +11,7 @@ author_staff_member: Gloria
 As team, we went out there to the field to collect data on how cassava farmers and agricultural experts do cassava disease diagnosis. We figured that most,if not all farmers use their naked eyes to come to a conclusion on which disease the cassava crop is being affected with while the agricultural experts do take leaf or tuber samples  to the laboratory so as to carry out disease diagnosis.<br/>
 
 We then decided to come up with an alternative i.e. the Mwogonet android mobile application that will be able to localize and classify common diseases in cassava crops such Cassava Mosaic Disease, Cassava Brown Streak Virus and Cassava Bacterial Blight based on the visual signs portrayed on the cassava leaves.<br/>
+
 First, we did leaf segmentation using Enet to remove background noise.Semantic segmentation was used to classify an image at pixel level and we achieved this by implementing E-Net - A lightweight model capable of real time semantic segmentation.This gave us an option of training on both cropped and uncropped images to see how well the model learns for cropped images and uncropped images for the different diseases.<br/>
 Then,we used the pre-trained VGG16 Convolutional Neural Network(This model is trained on a subset of the ImageNet database which is used in the ImageNet Large-Scale Visual Recognition Challenge (ILSVRC).<br/><br/> The reasons as to why we used VGG16 include;<br/> 
 1. It can be trained on a large dataset therefore makes the model learn more.
