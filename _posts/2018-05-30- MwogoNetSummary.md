@@ -21,15 +21,9 @@ Then,we used the pre-trained VGG16 Convolutional Neural Network(This model is tr
 3. Accuracy.The VGG16 model has blocks with same filter size applied multiple times to extract more complex and representative features making it more accurate.<br/> 
 
 The model was trained on both the cropped and uncropped images for the diseased(Cassava Mosaic Disease, Cassava Bacterial Blight, Cassava Brown Streak Disease and Cassava Green mite Disease) as a whole versus healthy images to train the model on which leaves are diseased and which are not. We also trained it on a single disease versus the healthy and for each classification, we got different weights which reflect how well the model learned i.e.<br/>
-Let X be the Performance(Categorical_accuracy).
 
-1. X<60% - Bad
-
-2. 61%<=X>=75% - Fairly Good
-
-3. 76%<=X>=85% -Good
-
-4. 86%<=X>=100% - Very Good
+Below is a summary on the validation accuracy.<br/>
+image: https://mwogonet.github.io/images/val.jpg
 
 The above weights are then saved as an Hierachical Data Format (HDF) of which we saved ours using version 5 i.e. HDF5 file. We used this format because it is a set of file format that is designed to store and organize large amounts of data i.e.thousands of datasets can be stored in a single file.<br/>
 In the HDF5 file,Metadata is stored in the form of user-defined, named attributes attached to groups and datasets.The groups are container structures which hold datasets while the datasets are multidimensional arrays of a homogeneous type.It is saved in the form "Final_weights_0.89.hdf5".<br/>
